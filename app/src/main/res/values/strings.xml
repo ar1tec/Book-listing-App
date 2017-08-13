@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Book Listing</string>
+    <string name="search_hint">Search Books</string>
+    <string name="search">Search</string>
+    <string name="noconnection">No Internet connection</string>
+    <string name="nobooks">There are no books for this search</string>
+    <string name="blanksearch">Please enter atleast 1 character to start search</string>
+    <string name="book_name_dummy_text">Harry Potter and the Deathly Hallows</string>
+    <string name="author_name_dummy_text">J.K Rowling</string>
+
+    <string-array name="spinner_list">
+        <item>10</item>
+        <item>20</item>
+        <item>2</item>
+        <item>5</item>
+    </string-array>
+
+</resources>
